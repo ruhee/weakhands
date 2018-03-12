@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+
+.app {
+  text-align: center;
+  padding-bottom: 6rem;
+}
+
+.header {
+  color: white;  
+  font-family: 'Bowlby One SC';
+  padding: 2rem;  
+  text-transform: uppercase;
+}
+
+.title {
+  font-size: 6rem;
+}
+
+img {
+  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 100rem;
+}
+
+@media (max-width: 767px) { 
+  .title {
+    font-size: 4rem;
+  }
+}
