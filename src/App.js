@@ -17,7 +17,7 @@ class App extends Component {
           find us on <a href="http://facebook.com/weakhandsband">facebook</a>, <a href="http://twitter.com/weakhandsband">twitter</a> and <a href="http://instagram.com/weakhands">instagram</a>
         </p>
         <p>
-          next show: <b>april 21st</b> at <b>handlebar</b>
+          next show: <a href="https://www.facebook.com/events/160232448018992/?ref=br_rs"><b>april 21st</b> at <b>handlebar</b></a> with mother tongues, eyeballs, and slutcode
         </p>
       </div>
     );
